@@ -1,0 +1,116 @@
+[04-Jun-2016 07:31:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[04-Jun-2016 18:33:33 Asia/Dhaka] PHP Warning:  move_uploaded_file(/home/sbttcc/public_html/SBTTC/primary/img/basic/34.jpg): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/submit-result.php on line 79
+[04-Jun-2016 18:33:33 Asia/Dhaka] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVqx0Jn' to '/home/sbttcc/public_html/SBTTC/primary/img/basic/34.jpg' in /home/sbttcc/public_html/primary/submit-result.php on line 79
+[04-Jun-2016 18:39:04 Asia/Dhaka] PHP Warning:  move_uploaded_file(/home/sbttcc/public_html/SBTTC/primary/img/basic/35.jpg): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/result-edit-basic.php on line 75
+[04-Jun-2016 18:39:04 Asia/Dhaka] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTmUn2I' to '/home/sbttcc/public_html/SBTTC/primary/img/basic/35.jpg' in /home/sbttcc/public_html/primary/result-edit-basic.php on line 75
+[08-Jun-2016 10:58:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[08-Jun-2016 22:59:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[08-Jun-2016 22:59:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[09-Jun-2016 04:25:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[09-Jun-2016 04:25:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[11-Jun-2016 03:00:07 America/Chicago] PHP Warning:  unlink(img/basic/1004112444.jpg): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[11-Jun-2016 03:00:10 America/Chicago] PHP Warning:  unlink(img/basic/33.jpg): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[11-Jun-2016 03:00:21 America/Chicago] PHP Warning:  unlink(img/basic/32.jpg): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[13-Jun-2016 01:16:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[26-Jun-2016 02:47:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sbttcc/public_html/primary/show-result-basic.php:30) in /home/sbttcc/public_html/primary/show-result-basic.php on line 31
+[03-Aug-2016 01:52:53 America/Chicago] PHP Warning:  unlink(img/basic/43.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[03-Aug-2016 01:52:56 America/Chicago] PHP Warning:  unlink(img/basic/42.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[03-Aug-2016 01:52:58 America/Chicago] PHP Warning:  unlink(img/basic/41.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[03-Aug-2016 01:53:02 America/Chicago] PHP Warning:  unlink(img/basic/40.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[03-Aug-2016 01:53:04 America/Chicago] PHP Warning:  unlink(img/basic/39.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[03-Aug-2016 01:53:06 America/Chicago] PHP Warning:  unlink(img/basic/38.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[04-Sep-2016 07:58:04 America/Chicago] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/submit-result.php on line 2
+[04-Sep-2016 07:58:04 America/Chicago] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/submit-result.php on line 2
+[04-Sep-2016 07:58:04 America/Chicago] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/sbttcc/public_html/primary/submit-result.php on line 2
+[04-Sep-2016 07:58:04 America/Chicago] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/submit-result.php on line 3
+[04-Sep-2016 07:58:04 America/Chicago] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/submit-result.php on line 3
+[04-Sep-2016 07:58:04 America/Chicago] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/sbttcc/public_html/primary/submit-result.php on line 3
+[04-Sep-2016 07:58:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/submit-result.php:2) in /home/sbttcc/public_html/primary/submit-result.php on line 4
+[04-Sep-2016 18:58:04 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'sbttcc'@'localhost' (using password: NO) in /home/sbttcc/public_html/primary/submit-result.php on line 234
+[04-Sep-2016 18:58:04 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sbttcc/public_html/primary/submit-result.php on line 234
+[04-Sep-2016 18:58:04 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sbttcc/public_html/primary/submit-result.php on line 235
+[04-Sep-2016 18:58:04 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'sbttcc'@'localhost' (using password: NO) in /home/sbttcc/public_html/primary/submit-result.php on line 258
+[04-Sep-2016 18:58:04 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sbttcc/public_html/primary/submit-result.php on line 258
+[04-Sep-2016 18:58:04 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sbttcc/public_html/primary/submit-result.php on line 259
+[04-Sep-2016 18:58:04 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'sbttcc'@'localhost' (using password: NO) in /home/sbttcc/public_html/primary/submit-result.php on line 413
+[04-Sep-2016 18:58:04 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sbttcc/public_html/primary/submit-result.php on line 413
+[04-Sep-2016 18:58:04 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sbttcc/public_html/primary/submit-result.php on line 414
+[04-Sep-2016 07:58:05 America/Chicago] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/submit-result.php on line 2
+[04-Sep-2016 07:58:05 America/Chicago] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/submit-result.php on line 2
+[04-Sep-2016 07:58:05 America/Chicago] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/sbttcc/public_html/primary/submit-result.php on line 2
+[04-Sep-2016 07:58:05 America/Chicago] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/submit-result.php on line 3
+[04-Sep-2016 07:58:05 America/Chicago] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/submit-result.php on line 3
+[04-Sep-2016 07:58:05 America/Chicago] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/sbttcc/public_html/primary/submit-result.php on line 3
+[04-Sep-2016 07:58:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/submit-result.php:2) in /home/sbttcc/public_html/primary/submit-result.php on line 4
+[04-Sep-2016 18:58:05 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'sbttcc'@'localhost' (using password: NO) in /home/sbttcc/public_html/primary/submit-result.php on line 234
+[04-Sep-2016 18:58:05 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sbttcc/public_html/primary/submit-result.php on line 234
+[04-Sep-2016 18:58:05 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sbttcc/public_html/primary/submit-result.php on line 235
+[04-Sep-2016 18:58:05 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'sbttcc'@'localhost' (using password: NO) in /home/sbttcc/public_html/primary/submit-result.php on line 258
+[04-Sep-2016 18:58:05 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sbttcc/public_html/primary/submit-result.php on line 258
+[04-Sep-2016 18:58:05 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sbttcc/public_html/primary/submit-result.php on line 259
+[04-Sep-2016 18:58:05 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'sbttcc'@'localhost' (using password: NO) in /home/sbttcc/public_html/primary/submit-result.php on line 413
+[04-Sep-2016 18:58:05 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sbttcc/public_html/primary/submit-result.php on line 413
+[04-Sep-2016 18:58:05 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sbttcc/public_html/primary/submit-result.php on line 414
+[04-Sep-2016 08:24:11 America/Chicago] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 1
+[04-Sep-2016 08:24:11 America/Chicago] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 1
+[04-Sep-2016 08:24:11 America/Chicago] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/sbttcc/public_html/primary/view-results.php on line 1
+[04-Sep-2016 08:24:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/view-results.php:1) in /home/sbttcc/public_html/primary/view-results.php on line 2
+[04-Sep-2016 08:24:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'sbttcc'@'localhost' (using password: NO) in /home/sbttcc/public_html/primary/view-results.php on line 73
+[04-Sep-2016 08:24:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sbttcc/public_html/primary/view-results.php on line 73
+[18-Oct-2016 23:33:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[18-Oct-2016 23:41:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[25-Dec-2016 22:18:25 America/Chicago] PHP Warning:  unlink(img/basic/46.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[25-Dec-2016 22:24:30 America/Chicago] PHP Warning:  unlink(img/job/6.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[25-Dec-2016 22:24:34 America/Chicago] PHP Warning:  unlink(img/job/): Is a directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[31-Dec-2016 23:14:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[01-Jan-2017 05:05:07 America/Chicago] PHP Warning:  unlink(img/job/13.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[01-Jan-2017 06:13:14 America/Chicago] PHP Warning:  unlink(img/basic/49.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[01-Jan-2017 12:12:49 America/Chicago] PHP Warning:  unlink(img/job/16.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[01-Jan-2017 21:59:10 America/Chicago] PHP Warning:  unlink(img/basic/52.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[01-Jan-2017 21:59:18 America/Chicago] PHP Warning:  unlink(img/job/15.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[01-Jan-2017 21:59:28 America/Chicago] PHP Warning:  unlink(img/job/10.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[01-Jan-2017 21:59:32 America/Chicago] PHP Warning:  unlink(img/job/11.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[01-Jan-2017 21:59:36 America/Chicago] PHP Warning:  unlink(img/job/12.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[01-Jan-2017 21:59:40 America/Chicago] PHP Warning:  unlink(img/job/14.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[02-Jan-2017 10:30:46 America/Chicago] PHP Warning:  unlink(img/job/17.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[03-Jan-2017 04:52:45 America/Chicago] PHP Warning:  unlink(img/basic/51.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[03-Jan-2017 04:52:52 America/Chicago] PHP Warning:  unlink(img/job/19.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[03-Jan-2017 04:53:02 America/Chicago] PHP Warning:  unlink(img/job/18.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[10-Jan-2017 02:58:45 America/Chicago] PHP Warning:  unlink(img/job/26.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[10-Jan-2017 13:18:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[10-Jan-2017 23:54:56 America/Chicago] PHP Warning:  unlink(img/job/25.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[10-Jan-2017 23:55:03 America/Chicago] PHP Warning:  unlink(img/job/24.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[10-Jan-2017 23:55:05 America/Chicago] PHP Warning:  unlink(img/job/23.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[10-Jan-2017 23:55:07 America/Chicago] PHP Warning:  unlink(img/job/22.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[10-Jan-2017 23:55:09 America/Chicago] PHP Warning:  unlink(img/job/21.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[10-Jan-2017 23:55:12 America/Chicago] PHP Warning:  unlink(img/job/20.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[11-Jan-2017 08:23:53 America/Chicago] PHP Warning:  unlink(img/basic/53.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 12
+[12-Jan-2017 12:04:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[15-Jan-2017 03:33:33 America/Chicago] PHP Warning:  unlink(img/job/34.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[16-Jan-2017 11:16:13 America/Chicago] PHP Warning:  unlink(img/job/91.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[16-Jan-2017 11:16:17 America/Chicago] PHP Warning:  unlink(img/job/92.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[16-Jan-2017 11:16:34 America/Chicago] PHP Warning:  unlink(img/job/): Is a directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[19-Jan-2017 05:18:22 America/Chicago] PHP Warning:  unlink(img/job/96.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[22-Jan-2017 04:26:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[24-Jan-2017 05:25:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[24-Jan-2017 09:27:58 America/Chicago] PHP Warning:  unlink(img/job/118.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[24-Jan-2017 09:28:06 America/Chicago] PHP Warning:  unlink(img/job/): Is a directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[24-Jan-2017 11:47:43 America/Chicago] PHP Warning:  unlink(img/job/119.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[24-Jan-2017 11:48:46 America/Chicago] PHP Warning:  unlink(img/job/120.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[08-Feb-2017 08:26:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[19-Feb-2017 06:08:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[22-Feb-2017 05:23:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[23-Feb-2017 05:33:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[30-Mar-2017 06:23:49 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[30-Mar-2017 06:24:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[30-Mar-2017 06:24:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[30-Mar-2017 06:25:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[30-Mar-2017 06:27:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[30-Mar-2017 06:28:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[02-Apr-2017 06:36:21 America/Chicago] PHP Warning:  unlink(img/job/342.): No such file or directory in /home/sbttcc/public_html/primary/view-results.php on line 22
+[04-Apr-2017 22:21:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[08-Apr-2017 06:06:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[08-Apr-2017 06:06:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[08-Apr-2017 06:10:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[16-Apr-2017 04:52:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
+[17-Apr-2017 07:10:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sbttcc/public_html/primary/index.php:36) in /home/sbttcc/public_html/primary/index.php on line 41
